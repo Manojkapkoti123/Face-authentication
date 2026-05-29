@@ -1,0 +1,10 @@
+requirements.txt
+
+fastapi
+uvicorn
+python-multipart
+numpy
+opencv-python
+insightface
+onnxruntime
+scikit-learn
